@@ -1,0 +1,23 @@
+# Node / general
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+npm-debug.log*
+logs/
+*.log
+
+# OS
+*.exe
+*.dll
+
+# Data files
+*.csv
