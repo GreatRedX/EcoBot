@@ -14,3 +14,4 @@ Cómo probar localmente
 1. Abrir `Chatbot/index.html` en un navegador (doble clic o "Abrir con").
 2. Escribir en el input o pulsar botones para navegar el flujo.
 
+Video explicativo: https://youtu.be/71qqPgS1qoc
